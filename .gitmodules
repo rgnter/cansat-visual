@@ -1,0 +1,10 @@
+[submodule "3rd-party/raylib"]
+	path = 3rd-party/raylib
+	url = https://github.com/raysan5/raylib.git
+[submodule "3rd-party/imgui"]
+	path = 3rd-party/imgui
+	url = https://github.com/ocornut/imgui.git
+	branch = docking
+[submodule "3rd-party/rlImGui"]
+	path = 3rd-party/rlImGui
+	url = https://github.com/raylib-extras/rlImGui.git
